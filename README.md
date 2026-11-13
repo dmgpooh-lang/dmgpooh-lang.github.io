@@ -1,5 +1,7 @@
 # 송용남 UI·UX 포트폴리오
 
+공개 주소: https://dmgpooh-lang.github.io/
+
 정적 HTML 포트폴리오입니다. GitHub Pages에서 빌드 없이 배포할 수 있습니다.
 
 ## 구성
